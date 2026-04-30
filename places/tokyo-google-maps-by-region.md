@@ -1,7 +1,7 @@
-# Google Maps Merged List By Region With Hours
+# Tokyo Google Maps List By Region
 
 Generated: 2026-04-20
-Source: Two Google Maps shared lists merged without author distinction, regrouped by real-world area flow, then enriched with operating hours from Google Maps. Additional user-provided restaurant and shopping picks were appended on 2026-04-20. Permanently closed places were moved to `google-maps-closed-places-archive.md`.
+Source: Two Google Maps shared lists merged without author distinction, regrouped by real-world area flow, then enriched with operating hours from Google Maps. Additional user-provided restaurant and shopping picks were appended on 2026-04-20. Permanently closed places were moved to `closed-places-archive.md`.
 
 ## Summary
 
@@ -14,7 +14,7 @@ Source: Two Google Maps shared lists merged without author distinction, regroupe
 ## Notes
 
 - 운영시간은 Google Maps 페이지에 표시된 정보를 기준으로 정리했습니다.
-- `폐업함` 항목은 `google-maps-closed-places-archive.md`로 분리했습니다.
+- `폐업함` 항목은 `closed-places-archive.md`로 분리했습니다.
 - 현재 상태 문구는 오탐 가능성이 있어, 주간 운영시간이 없고 휴업/폐업이 비교적 명확한 경우에만 제한적으로 표시했습니다.
 - 주간 운영시간이 없는 항목은 관광지, 역, 호텔, 폐업/휴업 상태, 또는 Google Maps 미표시 케이스일 수 있습니다.
 - 시간 표기는 추출 시점 기준이므로 이후 변동될 수 있습니다.
